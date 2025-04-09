@@ -4,7 +4,7 @@ HuaweiCloud OBS filesystem for Laravel
 ## 使用方法
 安装
 ```shell
-composer require kalax2/laravel-huaweicloud-obs
+composer require ellisfan/laravel-huaweicloud-obs
 ```
 配置
 
