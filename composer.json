@@ -1,14 +1,19 @@
 {
-    "name": "kalax2/laravel-huaweicloud-obs",
+    "name": "ellisfan/laravel-huaweicloud-obs",
     "type": "library",
     "description": "HuaweiCloud OBS filesystem for laravel.",
-    "keywords": ["huaweicloud", "obs", "laravel", "filesystem", "storage"],
+    "keywords": [
+        "huaweicloud",
+        "obs",
+        "laravel",
+        "filesystem",
+        "storage"
+    ],
     "require": {
-        "laravel/framework": "^9.0|^10.0|^11.0",
+        "laravel/framework": "^9.0|^10.0|^11.0|^12.0",
         "kalax2/flysystem-huaweicloud-obs": "^1.0"
     },
-    "require-dev": {
-    },
+    "require-dev": {},
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -24,7 +29,7 @@
     },
     "authors": [
         {
-            "name": "kalax2"
+            "name": "ellisfan"
         }
     ]
 }
